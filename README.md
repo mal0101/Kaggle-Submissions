@@ -51,6 +51,7 @@ This section will be updated with insights and techniques learned from each comp
    ```
 
 3. Create and activate the competition-specific environment:
+
 **NB**: I personally chose to seperate environments for each competition folder so that there are no dependency difficulties.
 
 
