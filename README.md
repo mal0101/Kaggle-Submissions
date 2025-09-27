@@ -78,7 +78,7 @@ This section will be updated with insights and techniques learned from each comp
 ## Contact
 
 Feel free to reach out for discussions about any of the competitions or approaches:
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/malak-mekyassi)
+- LinkedIn: [HMU HERE](https://linkedin.com/in/malak-mekyassi)
 
 ## License
 
