@@ -6,7 +6,8 @@ Each competition has its own directory.
 ## Competitions
 
 ### Active Competitions
-- ****
+- **Titanic - Machine Learning from Disaster**: The competition on Kaggle challenges participants to build a predictive model that determines which passengers survived the Titanic shipwreck using historical passenger data such as age, sex, class, and fare.
+
 
 ### Completed Competitions
 
