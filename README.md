@@ -51,10 +51,8 @@ This section will be updated with insights and techniques learned from each comp
    ```
 
 3. Create and activate the competition-specific environment:
-   ```bash
-   conda env create -f environment.yml
-   conda activate competition-name-env
-   ```
+**NB**: I personally chose to seperate environments for each competition folder so that there are no dependency difficulties.
+
 
 ## Competition Guidelines
 
@@ -75,7 +73,6 @@ This section will be updated with insights and techniques learned from each comp
 
 - [Kaggle Learn](https://www.kaggle.com/learn)
 - [Kaggle Competitions](https://www.kaggle.com/competitions)
-- [Useful Kaggle Kernels and Discussions](link-to-bookmark-collection)
 
 ## Contact
 
