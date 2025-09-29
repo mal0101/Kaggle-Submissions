@@ -19,14 +19,6 @@ Each competition folder contains:
 - **Model validation** - Cross-validation and performance evaluation
 - **Final submission** - Best performing model and predictions
 
-## Key Learnings
-
-This section will be updated with insights and techniques learned from each competition:
-- Data preprocessing techniques
-- Feature engineering strategies
-- Model selection and ensemble methods
-- Cross-validation strategies
-- Domain-specific approaches
 
 ## Setup and Usage
 
