@@ -3,15 +3,6 @@
 This repository contains my submissions and solutions for various Kaggle competitions in data science, machine learning, and artificial intelligence.
 Each competition has its own directory.
 
-## Competitions
-
-### Active Competitions
-- **Titanic - Machine Learning from Disaster**: The competition on Kaggle challenges participants to build a predictive model that determines which passengers survived the Titanic shipwreck using historical passenger data such as age, sex, class, and fare.
-
-
-### Completed Competitions
-
-
 ## Tools and Technologies
 
 - **Languages**: Python
@@ -62,12 +53,6 @@ This section will be updated with insights and techniques learned from each comp
 - Data files are gitignored but download scripts are provided where possible
 - Model files are tracked using Git LFS for large files
 - Each competition has its own conda environment for reproducibility
-
-## Results Summary
-
-| Competition | Rank | Score | Key Techniques |
-|-------------|------|-------|----------------|
-
 
 
 ## Resources and References
